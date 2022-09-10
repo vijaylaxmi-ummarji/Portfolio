@@ -5,7 +5,7 @@
 }
 .navstyling{
     background-color:blanchedalmond;
-    height: 70px;
+    min-height: 70px;
     border:2px double #272932;
     border-radius: 20px;
 }
